@@ -8,7 +8,7 @@ public class f3岛屿数量 {
      */
 
     public int solve (char[][] grid) {
-        // write code here
+        return 1;
     }
 
 }
